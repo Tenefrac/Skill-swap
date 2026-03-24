@@ -68,3 +68,6 @@ PLATFORM:
 
 GOAL:
 Create a structured, reliable platform where anyone can exchange skills efficiently without needing money.
+
+https://www.figma.com/make/SO7R0tRuJCddzeQxdf7j8f/Generate-design-elements?t=APynTy9YHtuyFYKO-1
+
