@@ -4,6 +4,11 @@ DONE IN LARAVEL
 QUALITY EDUCATION SDG
 Many students need help with academic, creative, and technical tasks such as tutoring, thesis editing, graphic design, and coding. However, many cannot afford to pay professionals. At the same time, many students already have valuable skills but have no organized and trusted system to offer or exchange them. Most students rely on Facebook groups or chat messages, which are unstructured, unreliable, and inefficient.
 
+techstack:
+Laravel frame work
+PHP
+CCS
+HTML
 
 TARGET USERS:
 - Students
