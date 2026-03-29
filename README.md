@@ -1,6 +1,9 @@
 # Skill-swap
 
 DONE IN LARAVEL
+QUALITY EDUCATION SDG
+Many students need help with academic, creative, and technical tasks such as tutoring, thesis editing, graphic design, and coding. However, many cannot afford to pay professionals. At the same time, many students already have valuable skills but have no organized and trusted system to offer or exchange them. Most students rely on Facebook groups or chat messages, which are unstructured, unreliable, and inefficient.
+
 
 TARGET USERS:
 - Students
@@ -69,5 +72,5 @@ PLATFORM:
 GOAL:
 Create a structured, reliable platform where anyone can exchange skills efficiently without needing money.
 
-https://www.figma.com/make/SO7R0tRuJCddzeQxdf7j8f/Generate-design-elements?t=APynTy9YHtuyFYKO-1
+
 
