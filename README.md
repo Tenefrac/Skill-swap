@@ -79,3 +79,57 @@ Create a structured, reliable platform where anyone can exchange skills efficien
 
 
 
+
+🧰 1. Install Requirements
+
+Before installing Laravel, you need:
+
+✅ PHP (8.1 or higher)
+Install via:
+XAMPP (easy all-in-one)
+or standalone PHP
+✅ Composer (VERY IMPORTANT)
+Composer is required to install Laravel
+Download: https://getcomposer.org/
+
+👉 Check if installed:
+
+php -v
+composer -V
+🚀 2. Install Laravel
+
+Open Command Prompt / Terminal, then run:
+
+composer create-project laravel/laravel myApp
+
+👉 This will:
+
+Create a folder named myApp
+Install Laravel inside it
+📂 3. Go to Your Project
+cd myApp
+▶️ 4. Run Laravel
+
+Start the built-in server:
+
+php artisan serve
+
+You should see something like:
+
+Server running on http://127.0.0.1:8000
+
+👉 Open in browser:
+
+http://127.0.0.1:8000
+🛠️ 5. (Optional) Use XAMPP Instead
+
+If you're using XAMPP:
+
+Move your project to:
+
+htdocs/
+Start Apache in XAMPP
+
+Open:
+
+http://localhost/myApp/public
